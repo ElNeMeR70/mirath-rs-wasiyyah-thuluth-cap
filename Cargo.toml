@@ -1,0 +1,10 @@
+[package]
+name = "mirath-rs-wasiyyah-thuluth-cap"
+version = "1.0.0"
+edition = "2021"
+description = "Shariah Bequest (Wasiyyah) One-Third Cap & Debt Priority Waterfall"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "mirath_rs_wasiyyah_thuluth_cap"
+path = "main.rs"
